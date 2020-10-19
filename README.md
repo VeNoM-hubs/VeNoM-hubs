@@ -15,5 +15,4 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/blob/master/assets/python.png"></code>   <code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/blob/master/assets/arduino.svg"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/main/assets/python.png"></code>   <code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/main/assets/arduino.svg"></code>
