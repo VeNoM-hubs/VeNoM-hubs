@@ -1,4 +1,4 @@
-## Hi there, I'm [Bhaskar!](https://github.com/VeNoM-hubs) 👋
+## Hi there, I'm [Bhaskar!](https://github.com/VeNoM-hubs) 👋😂👀
 
 ### I'm a High school student and I joined github to learn Software development.
 <br>
