@@ -17,5 +17,5 @@ I'm a High school student and I joined github to learn Software development.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/python.png"></code>   <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/arduino.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/master/assets/python.png"></code>   <code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/master/assets/arduino.svg"></code>
 
