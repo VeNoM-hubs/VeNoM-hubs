@@ -1,4 +1,4 @@
-## Hi there, I'm [Bhaskar!](https://github.com/VeNoM-hubs) 👋
+## Hi there, I'm [Bhaskar!](https://github.com/VeNoM-hubs) 👋😂👀
 
 ### I'm a High school student and I joined github to learn Software development.
 <br>
@@ -13,9 +13,6 @@
 
 <br />
 
-I'm a High school student and I joined github to learn Software development.
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/main/assets/python.png"></code>   <code><img height="20" src="https://raw.githubusercontent.com/VeNoM-hubs/VeNoM-hubs/main/assets/arduino.svg"></code>
-
